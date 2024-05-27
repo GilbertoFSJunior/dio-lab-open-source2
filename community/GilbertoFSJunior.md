@@ -10,7 +10,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-dcd0c0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilberto_dev2/)
 
-[![E-mail](https://img.shields.io/badge/-Email-373737?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gilberto.tnt@hotmail.com)
+[![Email](https://img.shields.io/badge/-Email-373737?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gilberto.tnt@hotmail.com)
 
 # Skills
 
